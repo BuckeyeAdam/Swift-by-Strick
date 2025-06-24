@@ -1,0 +1,19 @@
+# Xcode build folders
+build/
+DerivedData/
+
+# Xcode user-specific data
+*.xcuserstate
+*.xcuserdata/
+*.xcscmblueprint
+
+# macOS system files
+.DS_Store
+
+# SwiftPM
+.swiftpm
+Package.resolved
+
+# Playground logs and auto-generated metadata
+timeline.xctimeline
+playground.xcworkspace/
