@@ -6,27 +6,29 @@ This is where I:
 - Explore Swift language fundamentals and advanced concepts
 - Build mini projects and fun experiments
 - Document learning journeys, patterns, and pitfalls
-- Write occasional tutorials and walkthroughs
+- Write occasional tutorials and walkthroughs for others learning Swift
 
-## 🧱 Structure
+## 🧱 Folder Structure
 
-| Folder           | Contents                                           |
-|------------------|----------------------------------------------------|
-| `Basics/`        | `print()`, variables, control flow, etc.           |
-| `Optionals/`     | Optional types, unwrapping, `guard`, etc.          |
-| `Closures/`      | Function literals, shorthand syntax, capture lists |
-| `SwiftUI-Minis/` | Small UI-based apps built in SwiftUI               |
-| `Networking/`    | `URLSession`, JSON decoding, async/await examples  |
+| Folder            | Contents                                                                 |
+|-------------------|--------------------------------------------------------------------------|
+| `Basics/`         | Print statements, variables, constants, basic control flow, etc.         |
+| `Collections/`    | Arrays, dictionaries, sets, tuples, and `map`/`filter`/`reduce` patterns |
+| `Optionals/`      | Handling optionals, `if let`, `guard`, nil coalescing, etc.              |
+| `Closures/`       | Closure syntax, capture lists, escaping/non-escaping, etc.               |
+| `SwiftUI-Minis/`  | Mini projects using SwiftUI for hands-on UI practice                     |
+| `Networking/`     | `URLSession`, JSON decoding, `async/await`, and related topics           |
 
 ## 🧪 Goals
 
-- Improve fluency in Swift
-- Build a strong reference base
-- Share knowledge in a clear, approachable way
+- Deepen mastery of the Swift language
+- Improve fluency through hands-on coding
+- Create a helpful, beginner-friendly knowledge base
+- Build a personal library of Swift tools, patterns, and references
 
 ---
 
-## 👋 Second Commit
+## 👋 Third Commit
 
 ```swift
 print("Hello, World!")
