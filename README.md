@@ -1,34 +1,31 @@
 # Swift-by-Strick 🧠🍎
 
-Welcome to **Swift-by-Strick** — my personal repo to sharpen and showcase skills in the Swift programming language.
+Welcome to **Swift-by-Strick** — a personal project to master the Swift programming language through hands-on exploration, coding exercises, and mini projects.
 
 This is where I:
-- Explore Swift language fundamentals and advanced concepts
-- Build mini projects and fun experiments
-- Document learning journeys, patterns, and pitfalls
-- Write occasional tutorials and walkthroughs for others learning Swift
-
-## 🧱 Folder Structure
-
-| Folder            | Contents                                                                 |
-|-------------------|--------------------------------------------------------------------------|
-| `Basics/`         | Print statements, variables, constants, basic control flow, etc.         |
-| `Collections/`    | Arrays, dictionaries, sets, tuples, and `map`/`filter`/`reduce` patterns |
-| `Optionals/`      | Handling optionals, `if let`, `guard`, nil coalescing, etc.              |
-| `Closures/`       | Closure syntax, capture lists, escaping/non-escaping, etc.               |
-| `SwiftUI-Minis/`  | Mini projects using SwiftUI for hands-on UI practice                     |
-| `Networking/`     | `URLSession`, JSON decoding, `async/await`, and related topics           |
-
-## 🧪 Goals
-
-- Deepen mastery of the Swift language
-- Improve fluency through hands-on coding
-- Create a helpful, beginner-friendly knowledge base
-- Build a personal library of Swift tools, patterns, and references
+- Practice core Swift concepts
+- Explore modern language features
+- Build a collection of small, working code examples
+- Learn by doing — and share what I learn publicly
+- Develop content that may one day become tutorials or video lessons
 
 ---
 
-## 👋 Third Commit
+## 🧱 Folder Structure
 
-```swift
-print("Hello, World!")
+| Folder             | Contents                                                                 |
+|--------------------|--------------------------------------------------------------------------|
+| `Basics/`          | Print statements, variables, constants, control flow, etc.               |
+| `Collections/`     | Arrays, dictionaries, sets, tuples, and `map`/`filter`/`reduce` examples |
+| `Optionals/`       | Handling optionals, `if let`, `guard`, nil coalescing, etc.              |
+| `Closures/`        | Closure syntax, shorthand, capture lists, trailing closures, etc.        |
+| `Networking/`      | `URLSession`, `async/await`, JSON parsing, error handling                |
+| `SwiftUI-Minis/`   | Small UI-based apps built with SwiftUI for hands-on practice             |
+| `Playground/`      | 💻 Xcode Playground for interactive Swift testing ([see details here](Playground/README.md)) |
+| `README.md`        | This file                                                                |
+
+---
+
+## 🔬 Interactive Xcode Playground Included
+
+This project includes an Xcode Playground at:
